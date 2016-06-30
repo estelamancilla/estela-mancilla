@@ -2,7 +2,6 @@ Program ejercicio2;
 uses crt;
 var
 C,Nro,Dif,I:Integer;
-
 begin
 clrscr;
 
