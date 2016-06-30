@@ -3,7 +3,7 @@ uses crt;
 Var 
 I,N,S,UN,AN:integer;
 begin
-Clrscr;
+Clrscr; 
   AN:=0;
   UN:=1;
   S:=1;
