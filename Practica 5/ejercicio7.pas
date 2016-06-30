@@ -3,9 +3,10 @@ Uses crt;
 var
 N,Nro,Max,I,C,Dif:integer;
 begin 
-  Writeln ('Ingrese dos numeros');
+  Writeln ('Ingrese un numero para determinar la secuencia');
   readln (N);
   Max:=0;
+  writeln ('ingrese un numero');
   Readln (Nro);
   C:=Nro;
   writeln ('Ingrese el otro numero');
