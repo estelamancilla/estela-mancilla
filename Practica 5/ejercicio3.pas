@@ -16,4 +16,5 @@ Clrscr;
                 ReadLn (Nro)
             end;
 readkey;
+
 end.
