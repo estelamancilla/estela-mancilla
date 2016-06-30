@@ -11,6 +11,5 @@ clrscr;
                 Writeln ('su valor es:',N);
                 Writeln ('su cuadrado es:',N*N);
             end;
-
 readkey;
 end.
