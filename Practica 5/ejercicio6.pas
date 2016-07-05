@@ -11,7 +11,7 @@ Clrscr;
     Readln (N1);
     ReadLn (N2);
     ReadLn (N3);
-For I:= 3 to N then
+For I:= 3 to N do
   begin
         if (N1>N2) and (N1>N3) then
         Begin
