@@ -12,7 +12,6 @@ clrscr;
     WriteLn ('ingrese otro numero');
     Readln (N2);
     Min:=N2;
-    
         while (N2 > Min) and (C < N) do
         Begin
         WriteLn ('Ingrese un numero nuevo');
