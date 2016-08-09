@@ -4,7 +4,7 @@ var
 N1,ANT,MAX: integer;
 begin 
 clrscr; 
-Max :=0;
+MAX :=0;
 ANT :=0;
 writeln('ingrese el primer numero');
 readln(N1);
